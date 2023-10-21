@@ -8,6 +8,11 @@ I'm a Senior Frontend Developer with over **5 years of commercial experience**, 
 
 I'm dedicated to crafting clean, efficient code and delivering high-quality web applications. Whether it's building interactive user interfaces or optimizing database performance, I'm up for the challenge!
 
+I also have a strong background in **leadership**:
+
+- As a **Product Manager**, I excel in writing technical specifications, task delegation, and project planning.
+- In my role as a **Development Team Leader**, I've recruited top talent, conducted HR and technical interviews, and led teams to success.
+
 ## **Let's Connect!** 🤝
 
 You can find me on [**LinkedIn**](https://linkedin.com/in/artyom-matsko/). Let's connect and explore opportunities together.
